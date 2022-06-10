@@ -1,0 +1,4 @@
+rootProject.name = "TestActivityTask"
+include ':app'
+include ':mylibrary'
+include ':commonlibrary'
